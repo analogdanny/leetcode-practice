@@ -1,0 +1,73 @@
+There is a 70 leetcode problem in 5 hours video I've been watching. He mentions that he will cover all the data structures and algorithms necessary for coding interviews. Below is his outline of the video, what are all the DS&A's?
+
+- Big O Notation
+- Problem Solving Techniques
+- SECTION - ARRAYS: Contains Duplicate
+- Missing Number
+- Note: Sorting, Dictionary, Lambdas
+- Find All Numbers Disappeared in an Array
+- Two Sum
+- Note: Java vs Python - Final Value After Operations
+- How Many Numbers Are Smaller Than the Current Number
+- Minimum Time Visiting All Points
+- Spiral Matrix
+- Number of Islands
+- SECTION - ARRAYS TWO POINTERS: Best Time to Buy and Sell Stock
+- Squares of a Sorted Array
+- 3Sum
+- Longest Mountain in Array
+- SECTION - ARRAYS SLIDING WINDOW: Contains Duplicate II
+- Minimum Absolute Difference
+- Minimum Size Subarray Sum
+- SECTION - BIT MANIPULATION: Single Number
+- SECTION - DYNAMIC PROGRAMMING: Coin Change
+- Climbing Stairs
+- Maximum Subarray
+- Counting Bits
+- Range Sum Query - Immutable
+- SECTION - BACKTRACKING: Letter Case Permutation
+- Subsets
+- Combinations
+- Permutations
+- SECTION - LINKED LISTS: Middle of Linked List
+- Linked List Cycle
+- Reverse Linked List
+- Remove Linked List Elements
+- Reverse Linked List II
+- Palindrome Linked List
+- Merge Two Sorted Lists
+- SECTION - STACKS: Min Stack
+- Valid Parentheses
+- Evaluate Reverse Polish Notation
+- Stack Sorting
+- SECTION - QUEUES: Implement Stack using Queues
+- Time Needed to Buy Tickets
+- Reverse the First K Elements of a Queue
+- SECTION - BINARY TREES: Average of Levels in Binary Tree
+- Minimum Depth of Binary Tree
+- Maximum Depth of Binary Tree
+- Min/Max Value Binary Tree
+- Binary Tree Level Order Traversal
+- Same Tree
+- Path Sum
+- Diameter of a Binary Tree
+- Invert Binary Tree
+- Lowest Common Ancestor of a Binary Tree
+- SECTION - BINARY SEARCH TREES: Search in a Binary Search Tree
+- Insert into a Binary Search Tree
+- Convert Sorted Array to Binary Search Tree
+- Two Sum IV - Input is a BST
+- Lowest Common Ancestor of a Binary Search Tree
+- Minimum Absolute Difference in BST
+- Balance a Binary Search Tree
+- Delete Node in a BST
+- Kth Smallest Element in a BST
+- SECTION - HEAPS: Kth Largest Element in an Array
+- K Closest Points to Origin
+- Top K Frequent Elements
+- Task Scheduler
+- SECTION - GRAPHS: Breadth and Depth First Traversal
+- Clone Graph
+- Core Graph Operations
+- Cheapest Flights Within K Stops
+- Course Schedule
