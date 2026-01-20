@@ -16,19 +16,19 @@
 
 
 class Solution:
+    # My guided solution:
+    #   Use two pointers where we compare the value and iterate on if the value 
+    #   of L < R. We have to iterate all points. For each L, iterate R across and 
+    #   calculate all points.
+    # 
     # def maxProfit(self, prices: list[int]) -> int:
-
-    #     # Use two pointers where we compare the value and iterate on if the value 
-    #     # of L < R. We have to iterate all points. For each L, iterate R across and 
-    #     # calculate all points.
-
     #     max_profit = 0 
-        
+    #   
     #     for i, left in enumerate(prices):
     #         for right in prices[i + 1:]:
     #             if right - left > max_profit:
     #                 max_profit = right - left
-            
+    #            
     #     return max_profit
 
     # Optimal Solution
